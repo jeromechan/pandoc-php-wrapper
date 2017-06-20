@@ -1,6 +1,7 @@
 pandoc-php-wrapper
 ==========
 
+[![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5941036343e84f5cb376419e71825ec2)](https://www.codacy.com/app/jerome.chan369/pandoc-php-wrapper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jeromechan/pandoc-php-wrapper&amp;utm_campaign=Badge_Grade)
 
 Pandoc-php-wrapper is a native wrapper for the Pandoc commands.
